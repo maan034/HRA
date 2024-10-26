@@ -1,3 +1,7 @@
+take a clone 
+1. npm install
+2. ng serve
+
 # HotelApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
